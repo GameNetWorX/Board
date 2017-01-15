@@ -1,2 +1,2 @@
-# Project-Board
+# Tutorial Forum
 [HowTo] Wir programmieren ein Forum
